@@ -1,0 +1,5 @@
+system_id,system_name,owner,risk_tier,review_due,evidence_ref
+AI-001,Contract summarizer,Legal operations,high,2027-02-20,REV-001
+AI-002,Knowledge search,,critical,2027-03-01,
+AI-003,Meeting transcription,IT operations,low,2027-08-20,REV-003
+AI-004,Ticket routing,Service operations,medium,,REV-004
